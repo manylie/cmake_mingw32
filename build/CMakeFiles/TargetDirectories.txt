@@ -1,0 +1,3 @@
+D:/cmakeProy/proyw/build/CMakeFiles/HolaMundo.dir
+D:/cmakeProy/proyw/build/CMakeFiles/edit_cache.dir
+D:/cmakeProy/proyw/build/CMakeFiles/rebuild_cache.dir
